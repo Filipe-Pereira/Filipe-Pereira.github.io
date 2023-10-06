@@ -1,6 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NAVIGATION":
+  url: https://navi.ion.org
+
+"ION ITM":
+  url: https://www.ion.org/publications/browse.cfm?proceedingsID=156
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE/ION PLANS ":
+  url: https://www.ion.org/publications/browse.cfm?pub=PLANS
+  color: "#00369f"
+
+"IEEE TAES":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7
+
+"IEEE Aero":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7
+  color: "#00369f"
