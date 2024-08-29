@@ -21,6 +21,8 @@ social: false  # includes social icons at the bottom of the page
 
 Filipe Pereira is a Systems Engineer with a decade of professional experience at the European Space Agency and a recognized expert in satellite navigation systems.
 
+Results-oriented Aerospace Systems Engineer with over 15 years of expertise in satellite navigation, orbital mechanics, and end-to-end system architecture for space missions.
+
 He earned is Ph.D. in Systems Science and Engineering from [Cornell University](http://cornell.edu), specializing in multi-objective design of nextGen Global Navigation Satellite Systems(GNSS).
 
 At ESA/ESTEC, he worked at the TT&C and Radio Navigation section in support of the GALILEO and EGNOS programs. 
